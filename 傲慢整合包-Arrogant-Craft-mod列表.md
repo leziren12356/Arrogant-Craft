@@ -5,7 +5,7 @@
 | 项目 | 内容 |
 |---|---|
 | 整合包名称 | Arrogant-Craft（傲慢） |
-| 所在路径 | `E:\mc\curseforge\minecraft\Instances\Arrogant-Craft\` |
+| 所在目录 | `Instances/Arrogant-Craft/`（CurseForge 实例目录） |
 | 游戏版本 | Minecraft 1.21.1 |
 | 加载器 | NeoForge 21.1.216 |
 | Mod 数量 | **153 个 jar**（`mods` 目录，与 `minecraftinstance.json` 记录一一对应） |

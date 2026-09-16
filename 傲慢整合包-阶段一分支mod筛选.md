@@ -1,6 +1,6 @@
 # 傲慢整合包 · 第一阶段分支 Mod 筛选
 
-> 目标环境：Minecraft 1.21.1 / NeoForge（整合包目录 `E:\mc\curseforge\minecraft\Instances\Arrogant-Craft`，现有 153 个 mod）
+> 目标环境：Minecraft 1.21.1 / NeoForge（CurseForge 实例 `Instances/Arrogant-Craft`，现有 153 个 mod）
 
 ## 结论速览
 
