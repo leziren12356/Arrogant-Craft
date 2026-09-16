@@ -9,8 +9,6 @@
 | 游戏版本 | Minecraft 1.21.1 |
 | 加载器 | NeoForge 21.1.216 |
 | Mod 数量 | **153 个 jar**（`mods` 目录，与 `minecraftinstance.json` 记录一一对应） |
-| 安装日期 | 2025-12-11 |
-| 启动次数 | 3 次 |
 | 其他目录 | config / defaultconfigs / kubejs（由 KubeJS 相关 mod 提供）/ saves / schematics / xaero 等 |
 
 ---
